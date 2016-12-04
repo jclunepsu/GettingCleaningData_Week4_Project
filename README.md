@@ -7,7 +7,9 @@ The data this project was obtained at the following url:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The R script called run_analysis.R does the following analysis.
+This script pulls, combines and names the data into dataset.csv.  A subset of the data is created that extracts only the measurements on the mean and standard deviation for each measurement into data_mean_sd.csv.  Lastly, the remaining activities and variable are provided proper names and final dataset is created the summarize the average of each activity for each subject called dataset_tidy.txt.
+
+The steps of the R script called run_analysis.R are as follows.
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
