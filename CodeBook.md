@@ -2,8 +2,11 @@ dataset.tidy
 
 VARAIBLE =                                CALUCATION
 Time_BodyAccelerometer_Mean_X =	          average of tBodyAcc-mean()-X
+
 Time_BodyAccelerometer_Mean_Y	=           average of tBodyAcc-mean()-Y
+
 Time_BodyAccelerometer_Mean_Z	=           average of tBodyAcc-mean()-Z
+
 Time_BodyAccelerometer_StanDev_X =	      average of tBodyAcc-std()-X
 Time_BodyAccelerometer_StanDev_Y =	      average of tBodyAcc-std()-Y
 Time_BodyAccelerometer_StanDev_Z =        average of tBodyAcc-std()-Z
