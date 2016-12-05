@@ -1,12 +1,12 @@
 dataset.tidy
 
-VARAIBLE                                  CALUCATION
-Time_BodyAccelerometer_Mean_X	            average of tBodyAcc-mean()-X
-Time_BodyAccelerometer_Mean_Y	            average of tBodyAcc-mean()-Y
-Time_BodyAccelerometer_Mean_Z	            average of tBodyAcc-mean()-Z
-Time_BodyAccelerometer_StanDev_X	        average of tBodyAcc-std()-X
-Time_BodyAccelerometer_StanDev_Y	        average of tBodyAcc-std()-Y
-Time_BodyAccelerometer_StanDev_Z	        average of tBodyAcc-std()-Z
+VARAIBLE =                                  CALUCATION
+Time_BodyAccelerometer_Mean_X =	          average of tBodyAcc-mean()-X
+Time_BodyAccelerometer_Mean_Y	=           average of tBodyAcc-mean()-Y
+Time_BodyAccelerometer_Mean_Z	=           average of tBodyAcc-mean()-Z
+Time_BodyAccelerometer_StanDev_X =	      average of tBodyAcc-std()-X
+Time_BodyAccelerometer_StanDev_Y =	      average of tBodyAcc-std()-Y
+Time_BodyAccelerometer_StanDev_Z =        average of tBodyAcc-std()-Z
 Time_GravityAccelerometer_Mean_X	        average of tGravityAcc-mean()-X
 Time_GravityAccelerometer_Mean_Y	        average of tGravityAcc-mean()-Y
 Time_GravityAccelerometer_Mean_Z	        average of tGravityAcc-mean()-Z
